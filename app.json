@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/schedules/schedules",
+    "pages/seats/seats",
+    "pages/passenger/passenger",
+    "pages/payment/payment",
+    "pages/success/success",
+    "pages/login/login",
+    "pages/history/history"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#0053aa",
+    "navigationBarTitleText": "Menahariya",
+    "navigationBarTextStyle": "white"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

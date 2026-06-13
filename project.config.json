@@ -1,0 +1,7 @@
+{
+  "description": "Menahariya bus booking MiniApp",
+  "projectname": "menahariya",
+  "setting": {
+    "es5": false
+  }
+}
